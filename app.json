@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/fibro-adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.nadal.fibroapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
